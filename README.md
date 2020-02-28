@@ -15,4 +15,7 @@ Datasheets of the magnet connectors used.
 ## Ring 3D models 
 TO BE ADDED 
 
-This is a team project for GIX competition 2018. Team members include Tengxiang Zhang, Yinshuai Zhang, Yiqin Lu, and Wei Zheng from Tsinghua University. 
+This is a team project for GIX competition 2018. Team members include Tengxiang Zhang, Yinshuai Zhang, Yiqin Lu, and Wei Zheng from Tsinghua University.
+
+Associated Patents: CN108926081A, CN209498824U, CN209498825U 
+
